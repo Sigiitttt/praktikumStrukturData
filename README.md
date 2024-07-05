@@ -19,11 +19,13 @@ Repository ini berisi tugas-tugas praktikum mata kuliah Struktur Data di Program
 ## Instalasi
 1. Clone repository ini:
     ```sh
-    git clone https://github.com/username/nama-repository.git
+    git clone https://github.com/sigitttt/praktikumStrukturData
+.git
     ```
 2. Masuk ke direktori proyek:
     ```sh
-    cd nama-repository
+    cd praktikumStrukturData
+
     ```
 
 ## Struktur Proyek
@@ -55,4 +57,16 @@ Deskripsi tugas 7, bagaimana cara implementasi linked list dalam bahasa pemrogra
 Deskripsi tugas 8, bagaimana cara implementasi graph dalam bahasa pemrograman yang digunakan.
 
 ## Lisensi
-Informasi tentang lisensi proyek ini.
+## Lisensi
+
+MIT License
+
+Hak Cipta (c) [2023] [Sigit Aringga]
+
+Dengan ini, izin diberikan secara gratis, kepada siapa pun yang memperoleh salinan dari perangkat lunak ini dan file dokumentasi terkait (\"Perangkat Lunak\"), untuk berurusan dalam Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, memberikan lisensi, dan/atau menjual salinan Perangkat Lunak, serta mengizinkan orang-orang kepada siapa Perangkat Lunak tersebut diberikan untuk melakukannya, dengan ketentuan berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau sebagian besar salinan Perangkat Lunak.
+
+PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN TIDAK PELANGGARAN. DALAM KEADAAN APA PUN PARA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KERUGIAN ATAU SEBALIKNYA, YANG TIMBUL DARI, DARI ATAU DALAM HUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PENANGANAN PERANGKAT LUNAK.
+
+
