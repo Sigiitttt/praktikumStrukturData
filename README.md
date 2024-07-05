@@ -4,7 +4,6 @@
 Repository ini berisi tugas-tugas praktikum mata kuliah Struktur Data di Program Studi Teknik Informatika. Setiap tugas didesain untuk membantu memahami dan mengimplementasikan konsep-konsep dasar dari struktur data, seperti algoritma pemrograman, list, stack, queue, sorting, searching, linked list, dan graph.
 
 ## Daftar Isi
-- [Instalasi](#instalasi)
 - [Struktur Proyek](#struktur-proyek)
 - [Tugas Praktikum](#tugas-praktikum)
   - [Tugas 1: Algoritma Pemrograman](#tugas-1-algoritma-pemrograman)
